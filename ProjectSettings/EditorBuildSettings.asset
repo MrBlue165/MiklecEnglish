@@ -6,13 +6,13 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Menu.unity
+    path: Assets/Scenes/Menu SR/Menu SR.unity
     guid: 8999ad8a6d527d5438a25e2d1b3f65cc
   - enabled: 1
-    path: Assets/Scenes/Levely.unity
+    path: Assets/Scenes/Menu SR/Levely.unity
     guid: ff78d2da9cde03a4daa2b3252a953743
   - enabled: 1
-    path: Assets/Scenes/Jazyky.unity
+    path: Assets/Scenes/Menu SR/Jazyky.unity
     guid: 37ff379f49b91954cb57a9c00338a345
   - enabled: 1
     path: Assets/Scenes/Level 1.unity
