@@ -3,7 +3,13 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Finish1
+  - Finish2
+  - Player1
+  - Player2
+  - Sticky
+  - Ice
   layers:
   - Default
   - TransparentFX
