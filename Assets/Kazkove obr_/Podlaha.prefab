@@ -235,7 +235,7 @@ GameObject:
   - component: {fileID: 6225579266074401455}
   - component: {fileID: 3791336487237713357}
   m_Layer: 0
-  m_Name: "Prek\xE1\u017Eky"
+  m_Name: Podlaha
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
