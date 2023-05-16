@@ -432,6 +432,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Koniec Levela
       objectReference: {fileID: 0}
+    - target: {fileID: 8880966518430007568, guid: 000e31cb685de5c45a67fa1285a82da1, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 000e31cb685de5c45a67fa1285a82da1, type: 3}
 --- !u!224 &3897575901151199440 stripped
