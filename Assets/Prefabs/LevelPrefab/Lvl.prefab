@@ -111,6 +111,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 2330977565384390519}
     m_Modifications:
+    - target: {fileID: 207002774535498847, guid: 4581d7f9f4cc4a1498d53cfd487e8376, type: 3}
+      propertyPath: m_Name
+      value: Tilemap steny
+      objectReference: {fileID: 0}
     - target: {fileID: 207002774548355745, guid: 4581d7f9f4cc4a1498d53cfd487e8376, type: 3}
       propertyPath: m_Name
       value: Grid
@@ -158,6 +162,10 @@ PrefabInstance:
     - target: {fileID: 207002774548355757, guid: 4581d7f9f4cc4a1498d53cfd487e8376, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7616296967467132185, guid: 4581d7f9f4cc4a1498d53cfd487e8376, type: 3}
+      propertyPath: m_RootOrder
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4581d7f9f4cc4a1498d53cfd487e8376, type: 3}
