@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 3268099216881196715}
   - component: {fileID: 3268099216881196714}
-  - component: {fileID: 3268099216881196717}
+  - component: {fileID: 4604183593585666811}
   m_Layer: 0
   m_Name: SceneManager
   m_TagString: Untagged
@@ -49,7 +49,7 @@ MonoBehaviour:
     _json: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"time1","value":{"$content":0.0,"$type":"System.Single"},"typeHandle":{"Identification":"System.Single,
       mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences: []
---- !u!114 &3268099216881196717
+--- !u!114 &4604183593585666811
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}

@@ -4519,11 +4519,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8393948468501539946, guid: c7ebb269323da1c4a8f30e007ab3cf93, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 175
+      value: -275
       objectReference: {fileID: 0}
     - target: {fileID: 8393948468501539946, guid: c7ebb269323da1c4a8f30e007ab3cf93, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -50
+      value: 100
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c7ebb269323da1c4a8f30e007ab3cf93, type: 3}
