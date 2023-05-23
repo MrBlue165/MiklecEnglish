@@ -246,7 +246,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 7840330002216637120, guid: 3072ddd144015c54fb724e87471c88c0, type: 3}
       propertyPath: m_Name
-      value: Finish1
+      value: Finnish1
       objectReference: {fileID: 0}
     - target: {fileID: 7840330002216637150, guid: 3072ddd144015c54fb724e87471c88c0, type: 3}
       propertyPath: m_RootOrder
