@@ -96,10 +96,10 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
+  - {fileID: 350660876928028051}
   - {fileID: 2224891806488073684}
   - {fileID: 2225740730800710614}
   - {fileID: 6545554008429975352}
-  - {fileID: 350660876928028051}
   - {fileID: 7816170995080965631}
   m_Father: {fileID: 0}
   m_RootOrder: 0
@@ -111,9 +111,17 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 2330977565384390519}
     m_Modifications:
+    - target: {fileID: 51114389322129126, guid: 4581d7f9f4cc4a1498d53cfd487e8376, type: 3}
+      propertyPath: m_SortingOrder
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 207002774535498847, guid: 4581d7f9f4cc4a1498d53cfd487e8376, type: 3}
       propertyPath: m_Name
       value: Tilemap steny
+      objectReference: {fileID: 0}
+    - target: {fileID: 207002774535498852, guid: 4581d7f9f4cc4a1498d53cfd487e8376, type: 3}
+      propertyPath: m_SortingOrder
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 207002774548355745, guid: 4581d7f9f4cc4a1498d53cfd487e8376, type: 3}
       propertyPath: m_Name
@@ -121,7 +129,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 207002774548355757, guid: 4581d7f9f4cc4a1498d53cfd487e8376, type: 3}
       propertyPath: m_RootOrder
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 207002774548355757, guid: 4581d7f9f4cc4a1498d53cfd487e8376, type: 3}
       propertyPath: m_LocalPosition.x
@@ -183,7 +191,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 6120856862038164290, guid: a846af3a288708c4eb0b49e18aa35144, type: 3}
       propertyPath: m_RootOrder
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 6120856862038164290, guid: a846af3a288708c4eb0b49e18aa35144, type: 3}
       propertyPath: m_LocalPosition.x
@@ -253,7 +261,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7320804574833721473, guid: 98baf3784c4c6684bb35d65c92b254fc, type: 3}
       propertyPath: m_RootOrder
-      value: 3
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7320804574833721473, guid: 98baf3784c4c6684bb35d65c92b254fc, type: 3}
       propertyPath: m_AnchorMax.x
@@ -351,7 +359,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 3268099216881196715, guid: 930e2c904f9cd454e90ef66cf7c170ca, type: 3}
       propertyPath: m_RootOrder
-      value: 2
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 3268099216881196715, guid: 930e2c904f9cd454e90ef66cf7c170ca, type: 3}
       propertyPath: m_LocalPosition.x
