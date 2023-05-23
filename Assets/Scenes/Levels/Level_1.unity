@@ -450,6 +450,14 @@ PrefabInstance:
       propertyPath: m_Camera
       value: 
       objectReference: {fileID: 1801120321}
+    - target: {fileID: 350660876928028050, guid: c7ebb269323da1c4a8f30e007ab3cf93, type: 3}
+      propertyPath: m_SortingOrder
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 350660876928028053, guid: c7ebb269323da1c4a8f30e007ab3cf93, type: 3}
+      propertyPath: m_UiScaleMode
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 2224891806442251036, guid: c7ebb269323da1c4a8f30e007ab3cf93, type: 3}
       propertyPath: m_Tiles.Array.size
       value: 64
@@ -3002,6 +3010,14 @@ PrefabInstance:
       propertyPath: m_Tiles.Array.data[69].second.m_TileObjectToInstantiateIndex
       value: 65535
       objectReference: {fileID: 0}
+    - target: {fileID: 2224891806488073684, guid: c7ebb269323da1c4a8f30e007ab3cf93, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2224891806488073684, guid: c7ebb269323da1c4a8f30e007ab3cf93, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 2330977565384390519, guid: c7ebb269323da1c4a8f30e007ab3cf93, type: 3}
       propertyPath: m_RootOrder
       value: 2
@@ -3064,11 +3080,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2976810373886334863, guid: c7ebb269323da1c4a8f30e007ab3cf93, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 380
+      value: 316.6
       objectReference: {fileID: 0}
     - target: {fileID: 2976810373886334863, guid: c7ebb269323da1c4a8f30e007ab3cf93, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 110
+      value: 92.5
       objectReference: {fileID: 0}
     - target: {fileID: 3951706039428577274, guid: c7ebb269323da1c4a8f30e007ab3cf93, type: 3}
       propertyPath: m_Name
@@ -3092,11 +3108,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4565000592610972368, guid: c7ebb269323da1c4a8f30e007ab3cf93, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 310
+      value: 246.6
       objectReference: {fileID: 0}
     - target: {fileID: 4565000592610972368, guid: c7ebb269323da1c4a8f30e007ab3cf93, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 110
+      value: 92.5
       objectReference: {fileID: 0}
     - target: {fileID: 5639112633568782919, guid: c7ebb269323da1c4a8f30e007ab3cf93, type: 3}
       propertyPath: m_Tiles.Array.size
