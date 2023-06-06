@@ -248,6 +248,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Teleport 2.1 P2
       objectReference: {fileID: 0}
+    - target: {fileID: 4418899759289681940, guid: 2a64317b8aa91dd40870e78cfdaf038e, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 957049783, guid: ada1ad8f32f503c43821cff38c6fa63b, type: 3}
     - target: {fileID: 4418899759289681947, guid: 2a64317b8aa91dd40870e78cfdaf038e, type: 3}
       propertyPath: m_RootOrder
       value: 5
@@ -4729,6 +4733,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5509395973847041041, guid: 16fffcbd21db1134eb26d7c4e7ccacc8, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 957049783, guid: ada1ad8f32f503c43821cff38c6fa63b, type: 3}
     - target: {fileID: 5509395973847041045, guid: 16fffcbd21db1134eb26d7c4e7ccacc8, type: 3}
       propertyPath: m_Name
       value: Teleport 2.2 P2

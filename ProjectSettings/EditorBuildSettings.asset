@@ -54,6 +54,12 @@ EditorBuildSettings:
     path: Assets/Scenes/Levels/Level_13.unity
     guid: 222e84352039a8449b01a11439c68abb
   - enabled: 1
+    path: Assets/Scenes/Levels/Level_14.unity
+    guid: ee11069543da6d140a9b358aea5e1595
+  - enabled: 1
+    path: Assets/Scenes/Levels/Level_15.unity
+    guid: 9a0ca4e12d4667d4f9cb04263c0df2bb
+  - enabled: 1
     path: Assets/Scenes/Levels/Koniec levela.unity
     guid: 2e1033f8e738fe5419481764d0ca635d
   m_configObjects: {}
