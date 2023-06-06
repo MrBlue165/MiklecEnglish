@@ -508,6 +508,10 @@ PrefabInstance:
     m_TransformParent: {fileID: 0}
     m_Modifications:
     - target: {fileID: 350660876928028050, guid: c7ebb269323da1c4a8f30e007ab3cf93, type: 3}
+      propertyPath: m_Camera
+      value: 
+      objectReference: {fileID: 1099128919}
+    - target: {fileID: 350660876928028050, guid: c7ebb269323da1c4a8f30e007ab3cf93, type: 3}
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
@@ -3435,6 +3439,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Lvl
       objectReference: {fileID: 0}
+    - target: {fileID: 4686826269873821497, guid: c7ebb269323da1c4a8f30e007ab3cf93, type: 3}
+      propertyPath: m_Camera
+      value: 
+      objectReference: {fileID: 1099128919}
     - target: {fileID: 5457111212946312564, guid: c7ebb269323da1c4a8f30e007ab3cf93, type: 3}
       propertyPath: m_AnchoredPosition.x
       value: 0

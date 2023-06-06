@@ -3584,6 +3584,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Lvl
       objectReference: {fileID: 0}
+    - target: {fileID: 4686826269873821497, guid: c7ebb269323da1c4a8f30e007ab3cf93, type: 3}
+      propertyPath: m_Camera
+      value: 
+      objectReference: {fileID: 2054652568}
     - target: {fileID: 5457111212946312564, guid: c7ebb269323da1c4a8f30e007ab3cf93, type: 3}
       propertyPath: m_SizeDelta.x
       value: -487.49997
@@ -3594,11 +3598,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5457111212946312564, guid: c7ebb269323da1c4a8f30e007ab3cf93, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: -0.000022888184
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5457111212946312564, guid: c7ebb269323da1c4a8f30e007ab3cf93, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 99.99964
+      value: 99.99963
       objectReference: {fileID: 0}
     - target: {fileID: 5639112633568782919, guid: c7ebb269323da1c4a8f30e007ab3cf93, type: 3}
       propertyPath: m_Tiles.Array.size
