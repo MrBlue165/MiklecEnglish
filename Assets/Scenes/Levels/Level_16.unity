@@ -3584,6 +3584,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Lvl
       objectReference: {fileID: 0}
+    - target: {fileID: 5457111212946312564, guid: c7ebb269323da1c4a8f30e007ab3cf93, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 52.450012
+      objectReference: {fileID: 0}
+    - target: {fileID: 5457111212946312564, guid: c7ebb269323da1c4a8f30e007ab3cf93, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 39.059998
+      objectReference: {fileID: 0}
     - target: {fileID: 5639112633568782919, guid: c7ebb269323da1c4a8f30e007ab3cf93, type: 3}
       propertyPath: m_Tiles.Array.size
       value: 54
@@ -5288,6 +5296,10 @@ PrefabInstance:
       propertyPath: m_Tiles.Array.data[53].second.m_TileObjectToInstantiateIndex
       value: 65535
       objectReference: {fileID: 0}
+    - target: {fileID: 8575836474895206945, guid: c7ebb269323da1c4a8f30e007ab3cf93, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c7ebb269323da1c4a8f30e007ab3cf93, type: 3}
 --- !u!1001 &647393405
@@ -5974,7 +5986,7 @@ Camera:
   far clip plane: 1000
   field of view: 60
   orthographic: 1
-  orthographic size: 5
+  orthographic size: 6
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2

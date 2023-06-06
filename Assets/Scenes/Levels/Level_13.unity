@@ -3505,6 +3505,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Lvl
       objectReference: {fileID: 0}
+    - target: {fileID: 5457111212946312564, guid: c7ebb269323da1c4a8f30e007ab3cf93, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5639112633568782919, guid: c7ebb269323da1c4a8f30e007ab3cf93, type: 3}
       propertyPath: m_Tiles.Array.size
       value: 38
@@ -4861,7 +4865,7 @@ Camera:
   far clip plane: 1000
   field of view: 60
   orthographic: 1
-  orthographic size: 5
+  orthographic size: 6
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
