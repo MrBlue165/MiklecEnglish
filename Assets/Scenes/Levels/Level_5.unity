@@ -740,6 +740,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 350660876928028050, guid: c7ebb269323da1c4a8f30e007ab3cf93, type: 3}
+      propertyPath: m_Camera
+      value: 
+      objectReference: {fileID: 1468583978}
     - target: {fileID: 2224891806442251036, guid: c7ebb269323da1c4a8f30e007ab3cf93, type: 3}
       propertyPath: m_Tiles.Array.size
       value: 72
