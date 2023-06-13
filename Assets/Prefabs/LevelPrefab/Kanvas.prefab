@@ -988,6 +988,18 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 7320804574833721473}
     m_Modifications:
+    - target: {fileID: 2415574239119899459, guid: 000e31cb685de5c45a67fa1285a82da1, type: 3}
+      propertyPath: _data._json
+      value: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"sk","value":{"$content":"Dokon\u010dil
+        si Level!","$type":"System.String"},"typeHandle":{"Identification":"System.String,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"en","value":{"$content":"Level
+        complete!","$type":"System.String"},"typeHandle":{"Identification":"System.String,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"de","value":{"$content":"Ebenden
+        geschafft!","$type":"System.String"},"typeHandle":{"Identification":"System.String,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"la","value":{"$content":"Gradu
+        completo!","$type":"System.String"},"typeHandle":{"Identification":"System.String,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+      objectReference: {fileID: 0}
     - target: {fileID: 2415574239258941516, guid: 000e31cb685de5c45a67fa1285a82da1, type: 3}
       propertyPath: m_SizeDelta.x
       value: 850
